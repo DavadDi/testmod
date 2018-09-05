@@ -1,3 +1,3 @@
 module mod
 
-require github.com/DavadDi/testmod v1.0.0
+require github.com/DavadDi/testmod v1.0.1
